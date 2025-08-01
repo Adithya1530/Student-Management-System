@@ -24,4 +24,4 @@ This project demonstrates the implementation of basic **CRUD (Create, Read, Upda
 
 This Student Management System project serves as a foundational example of building a full-stack web application using Java technologies. 
 It combines JSP for the frontend, Servlets for backend processing, and Hibernate for efficient database interaction. 
-Ideal for beginners looking to understand database integration and full CRUD operations in Java web development and can later move on to Spring Framework
+Ideal for beginners looking to understand database integration and full CRUD operations in Java web development and can later move on to Spring Framework.
